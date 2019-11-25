@@ -1,1 +1,5 @@
 "Here we will develop the guidelines of the project" 
+
+-Submit the project to gitfold
+-Save in the PBD 
+-Buy the nanodestroyer
